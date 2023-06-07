@@ -1,0 +1,9 @@
+NOTE:
+
+       		public
+			protected
+			default/package level
+			private
+			
+in the above hierarchy 
+if we traverse from top to bottom visibility increases
